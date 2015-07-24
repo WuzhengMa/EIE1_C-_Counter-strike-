@@ -12,3 +12,6 @@ the design is based on FPGA board with an embedded camera capturing real-time vi
 .there is response after enemy is shot.
 
 not perfect yet due to timing issue.
+
+
+Codes will be uploaded soon, sorry about that.
